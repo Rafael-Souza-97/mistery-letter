@@ -26,6 +26,6 @@ Neste projeto foi implementado um gerador de cartas com fundos aleatórios ao di
 
 - ###### Percentual de cumprimento de requisitos ([Trybe](https://www.betrybe.com/))- 100%
 
-## Site
+## Site / Deploy
 
 https://mistery-letter-beta.vercel.app/

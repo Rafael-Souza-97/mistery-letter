@@ -1,4 +1,4 @@
-# Mistery-Letter
+# Mistery Letter
 
 Aplicação realizada enquanto aluno da [Trybe](https://www.betrybe.com/) para reforçar os conhecimentos de [JavaScript](https://www.javascript.com/), [HTML](https://html.com/), [CSS](https://www.w3.org/Style/CSS/Overview.en.html) e [Bootstrap](https://getbootstrap.com/).
 

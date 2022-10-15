@@ -28,4 +28,4 @@ Neste projeto foi implementado um gerador de cartas com fundos aleatórios ao di
 
 ## Site
 
-https://mistery-letter-beta.vercel.app/
+https://color-guess-rouge.vercel.app/

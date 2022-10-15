@@ -1,6 +1,6 @@
 .newspaper {
   background-color: antiquewhite;
-  font-family: 'Times New Roman', serif;
+  font-family: 'Times New Roman', Times, serif;
   font-weight: 700;
 }
 
@@ -48,4 +48,43 @@
 
 .skewright {
   transform: matrix(1, 0, -0.176327, 1, 0, 0);
+}
+
+.container-input {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  width: 100%;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  margin-top: 15%;
+}
+
+header {
+  font-size: 30px;
+  font-family: 'MedievalSharp', cursive;
+  border-radius: 20px;
+}
+
+.btn {
+  margin: 5px;
+}
+
+#carta-contador {
+  margin: 5px;
+  font-family: 'MedievalSharp', cursive;
+}
+
+#carta-gerada {
+  margin-top: 50px;
+}
+
+.input-group-text {
+ width: 500px;
 }

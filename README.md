@@ -2,7 +2,7 @@
 
 Aplicação realizada enquanto aluno da [Trybe](https://www.betrybe.com/) para reforçar os conhecimentos de [JavaScript](https://www.javascript.com/), [HTML](https://html.com/), [CSS](https://www.w3.org/Style/CSS/Overview.en.html) e [Bootstrap](https://getbootstrap.com/).
 
-Neste projeto foi implementado um gerador de cartas com fundos aleatórios ao digitar uma frase no input.
+Neste projeto foi implementado um gerador de cartas com fundos aleatórios ao digitar uma frase no input. Ou seja, dado um valor digitado em um campo de texto, apresenta as palavras com uma aparência de uma carta onde cada palavra possui uma estilização própria.
 
 ## Autor
 
